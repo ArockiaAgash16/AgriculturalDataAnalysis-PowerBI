@@ -106,3 +106,13 @@ Centralized cloud-based reporting with pre-processed, clean, structured data fro
 ## 🔗 Live Dashboard
 
 https://app.powerbi.com/view?r=eyJrIjoiODUwOTQ1ZTUtZTc3NC00YzQ1LWEzN2QtNTAzODM4ZGQxOTVlIiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
+
+## ✅ How to Use
+
+Download the .pbix file.
+
+Open with Power BI Desktop (2023 May or newer).
+
+Connect it to your Snowflake instance (or replace with your dataset).
+
+Explore dashboard tabs interactively.
