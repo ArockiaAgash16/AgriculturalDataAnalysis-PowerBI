@@ -100,6 +100,9 @@ Centralized cloud-based reporting with pre-processed, clean, structured data fro
 ### 4️⃣ Yield Analysis
 ![image](https://github.com/user-attachments/assets/519b7f47-f25b-4454-8d10-1ebb4b2e5b08)
 
+### Snowflake Sample Screenshot
+![image](https://github.com/user-attachments/assets/2de9505f-5b56-4785-af38-2bff1dcd85e4)
+
 ## 🔗 Live Dashboard
 
 https://app.powerbi.com/view?r=eyJrIjoiODUwOTQ1ZTUtZTc3NC00YzQ1LWEzN2QtNTAzODM4ZGQxOTVlIiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
