@@ -94,7 +94,7 @@ Centralized cloud-based reporting with pre-processed, clean, structured data fro
 
 Clone/download this repository
 
-Open Agricultural_Data_Analysis.pbix in Power BI Desktop
+Open Agricultural Data Analysis.pbix in Power BI Desktop
 
 Connect it to your Snowflake instance (or replace with your dataset)
 
