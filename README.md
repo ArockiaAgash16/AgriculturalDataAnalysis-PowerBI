@@ -1,8 +1,8 @@
-# 📊 Agricultural Data Analysis Dashboard | Power BI + Snowflake + AWS S3
+# 📊 Agricultural Data Analysis Report | Power BI + Snowflake + AWS S3
 
 ## 📌 Project Overview
 
-This project delivers a cloud-based data analytics pipeline and Power BI dashboard for analyzing agricultural data trends. The solution uses AWS S3 for data storage, Snowflake for data warehousing and transformations, and Power BI for data visualization, enabling insights across rainfall, temperature, humidity, and crop yield metrics.
+This project delivers a cloud-based data analytics pipeline and Power BI report for analyzing agricultural data trends. The solution uses AWS S3 for data storage, Snowflake for data warehousing and transformations, and Power BI for data visualization, enabling insights across rainfall, temperature, humidity, and crop yield metrics.
 
 ## 🛠️ Data Pipeline Workflow
 
@@ -80,11 +80,11 @@ SQL (Data Transformation)
 
 ## 🎯 Outcomes
 
-Built an end-to-end cloud data pipeline integrating AWS S3, Snowflake, and Power BI
+* Built an end-to-end cloud data pipeline integrating AWS S3, Snowflake, and Power BI
 
-Delivered an interactive agricultural analytics dashboard enabling multi-dimensional insights without using DAX or Power Query
+* Delivered an interactive agricultural analytics dashboard enabling multi-dimensional insights without using DAX or Power Query
 
-Centralized cloud-based reporting with pre-processed, clean, structured data from Snowflake
+* Centralized cloud-based reporting with pre-processed, clean, structured data from Snowflake
 
 ## 📸 Screenshots
 
