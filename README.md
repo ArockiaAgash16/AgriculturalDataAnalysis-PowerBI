@@ -105,7 +105,7 @@ SQL (Data Transformation)
 
 ## 🔗 Live Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiODUwOTQ1ZTUtZTc3NC00YzQ1LWEzN2QtNTAzODM4ZGQxOTVlIiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
+https://app.powerbi.com/view?r=eyJrIjoiZjEzNjQ2M2UtNmMzZS00N2RiLWE1ZmUtZGJiMzRjMTdhNjdhIiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
 
 ## ✅ How to Use
 
