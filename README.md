@@ -90,6 +90,10 @@ Centralized cloud-based reporting with pre-processed, clean, structured data fro
 
 (Upload your screenshots to the images/ folder and link them here in your README if you want to show them on the project page)
 
+## 🔗 Live Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiODUwOTQ1ZTUtZTc3NC00YzQ1LWEzN2QtNTAzODM4ZGQxOTVlIiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
+
 ## ✅ How to Use
 
 Clone/download this repository
