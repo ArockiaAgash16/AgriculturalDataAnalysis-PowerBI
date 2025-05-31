@@ -2,8 +2,8 @@
   TYPE = EXTERNAL_STAGE
   STORAGE_PROVIDER = 'S3'
   ENABLED = TRUE
-  STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::877305355652:role/bi.role'
-  STORAGE_ALLOWED_LOCATIONS = ('s3://biproject001/')
+  STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::............:role/bi.role'
+  STORAGE_ALLOWED_LOCATIONS = ('s3://............./')
   COMMENT = 'Optional Comment'
 
   desc integration PBI_Integration;
