@@ -106,13 +106,3 @@ Centralized cloud-based reporting with pre-processed, clean, structured data fro
 ## 🔗 Live Dashboard
 
 https://app.powerbi.com/view?r=eyJrIjoiODUwOTQ1ZTUtZTc3NC00YzQ1LWEzN2QtNTAzODM4ZGQxOTVlIiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
-
-## ✅ How to Use
-
-Clone/download this repository
-
-Open Agricultural Data Analysis.pbix in Power BI Desktop
-
-Connect it to your Snowflake instance (or replace with your dataset)
-
-Explore dashboard tabs interactively
