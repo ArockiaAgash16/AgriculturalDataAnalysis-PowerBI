@@ -103,7 +103,7 @@ SQL (Data Transformation)
 ### Snowflake Sample Screenshot
 ![image](https://github.com/user-attachments/assets/2de9505f-5b56-4785-af38-2bff1dcd85e4)
 
-## 🔗 Live Dashboard
+## 🔗 Live Report
 
 https://app.powerbi.com/view?r=eyJrIjoiZjEzNjQ2M2UtNmMzZS00N2RiLWE1ZmUtZGJiMzRjMTdhNjdhIiwidCI6IjE0YzAyY2YxLWE4ZjYtNGI3My1iMmNjLTQ0YTM0MjE5N2FiZiJ9
 
