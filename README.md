@@ -88,7 +88,17 @@ Centralized cloud-based reporting with pre-processed, clean, structured data fro
 
 ## 📸 Screenshots
 
-(Upload your screenshots to the images/ folder and link them here in your README if you want to show them on the project page)
+### 1️⃣ Rainfall Analysis
+![image](https://github.com/user-attachments/assets/2351fee4-e477-447e-83f3-fddf04829959)
+
+### 2️⃣ Temperature Analysis
+![image](https://github.com/user-attachments/assets/e150c8ba-c3b7-4fb8-944e-c721a25cb34c)
+
+### 3️⃣ Humidity Analysis
+![image](https://github.com/user-attachments/assets/fd63ec89-6708-43f6-9e2a-fe7b3f885f59)
+
+### 4️⃣ Yield Analysis
+![image](https://github.com/user-attachments/assets/519b7f47-f25b-4454-8d10-1ebb4b2e5b08)
 
 ## 🔗 Live Dashboard
 
